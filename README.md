@@ -1,0 +1,3 @@
+- 👋 Hi, I’m figini
+- 🌱 I’m currently learning web devolpment and C89
+- 📫 Contact-mail: matteo.figini.02@gmail.com
